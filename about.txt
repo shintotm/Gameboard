@@ -1,0 +1,1 @@
+click event, .toggle share button, .toggleClass notification bell, and .children() to show details
